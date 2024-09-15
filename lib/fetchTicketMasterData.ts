@@ -1,4 +1,4 @@
-import type { TicketDataType, TicketMasterAllEventsDataType } from './ticketWebsiteTypeUtils';
+import type { TicketDataType, TicketMasterAllEventsDataType } from './ticketWebsiteTypeUtils.ts';
 
 const TICKETMASTER_API_KEY = process.env.TICKETMASTER_API_KEY;  
 
