@@ -92,6 +92,7 @@ export default function HomePage() {
             </SignedOut>
             <SignedIn>
             <SpotifyLogin />
+            
               <UserButton />
             </SignedIn>
  
